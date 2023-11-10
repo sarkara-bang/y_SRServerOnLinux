@@ -1,0 +1,4 @@
+/home/sarkara/project002/build/CMakeFiles/server.dir
+/home/sarkara/project002/build/CMakeFiles/client.dir
+/home/sarkara/project002/build/CMakeFiles/edit_cache.dir
+/home/sarkara/project002/build/CMakeFiles/rebuild_cache.dir
